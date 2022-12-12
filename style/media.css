@@ -355,7 +355,7 @@ and (min-width: 768px) {
         padding-right: 5px;
     }
     .right_arrow{
-        background: url("/img/Vector.svg") no-repeat;
+        background: url("../img/Vector.svg") no-repeat;
         width: 38px;
         height: 38px;
         position: absolute;
@@ -364,7 +364,7 @@ and (min-width: 768px) {
         cursor: pointer;
     }
     .left_arrow{
-        background: url("/img/Vectorleft.svg") no-repeat;
+        background: url("../img/Vectorleft.svg") no-repeat;
         width: 38px;
         height: 38px;
         position: absolute;
@@ -692,7 +692,7 @@ and (min-width: 768px) {
     }
 
     .right_arrow{
-        background: url("/img/Vector.svg") no-repeat;
+        background: url("../img/Vector.svg") no-repeat;
         width: 38px;
         height: 38px;
         position: absolute;
@@ -701,7 +701,7 @@ and (min-width: 768px) {
         cursor: pointer;
     }
     .left_arrow{
-        background: url("/img/Vectorleft.svg") no-repeat;
+        background: url("../img/Vectorleft.svg") no-repeat;
         width: 38px;
         height: 38px;
         position: absolute;
