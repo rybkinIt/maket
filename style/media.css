@@ -1,0 +1,986 @@
+@media (max-width: 1300px)
+and (min-width: 768px) {
+    .header_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .menu_link {
+        font-size: 65%;
+    }
+
+    .number_link {
+        margin-left: -14px;
+        font-size: 85%;
+    }
+
+    .menu_button_item {
+        margin-left: -23px;
+        padding: 10px 25px;
+        font-size: 65%;
+    }
+
+    .menu_item:not(:last-child) {
+        margin: 0 33px 0 0;
+    }
+
+    .menu {
+        margin-left: 55px;
+    }
+
+    .title {
+        font-size: 230%;
+    }
+
+    .subtitle {
+        font-size: 113%;
+    }
+
+    .main_button_item {
+        font-size: 65%;
+        padding: 18px 32px;
+    }
+    .main_submit_item{
+        font-size: 65%;
+        padding: 16px 18px;
+    }
+    .page2_title{
+        font-size: 155%;
+    }
+    .page2_subtitle{
+        font-size: 85%;
+    }
+    .page2_add_title{
+        font-size: 105%;
+    }
+    .slider_link_link{
+        font-size: 85%;
+    }
+    .page2_img{
+        width: 100%;
+        object-fit: cover;
+        object-position: bottom;
+    }
+    .page3_img{
+        margin-left: -336px;
+        width: 186px;
+        height: 50px;
+    }
+    .video_img{
+
+        width: 700px;
+        height: 372px;
+        object-fit: cover;
+        object-position: bottom;
+    }
+    .page3_video{
+        margin-left: -10px;
+        margin-top: 150px;
+        width: 700px;
+        height: 372px;
+    }
+    .page3_video_img{
+        width: 95px;
+        height: 95px;
+    }
+    .page3_container{
+        justify-content: center;
+        display: flex;
+    }
+    .page4_title{
+        margin-left: -1px;
+        font-size: 18px;
+    }
+    .page4_form{
+        position: center;
+        margin-left: -1px;
+    }
+    .page4_form_button{
+        padding: 16px 70px 3px 68px;
+    }
+    .choice_img{
+        margin: 15px auto;
+        padding: 0 5px;
+        width: 320px;
+    }
+    .page4_container{
+        display: flex;
+        justify-content: center;
+        padding: 0 15px;
+    }
+    .choice_h1{
+        margin-left: 35px;
+    }
+    .choice_list{
+        margin-left: 35px;
+    }
+    .choice_background{
+        margin-left: 35px;
+        padding: 1.1%;
+    }
+    .page4_repair_choice{
+        display: flex;
+        justify-content: center;
+    }
+    .page4_repair_choice_item{
+    margin-left: -4px;
+    }
+    .page4_repair_choice_list{
+        margin-left: 15px;
+    }
+    .page4_logo{
+        margin-left: -20px;
+    }
+    .choice_button{
+        margin-left: -285px;
+        margin-top: 476px;
+        font-size: 16px;
+        padding: 14px 19px;
+    }
+    .page4_line{
+        position: center;
+        margin-left: -1px;
+    }
+    .page4_title{
+    font-size: 16px;
+    }
+
+    .page5_form_h1{
+        padding-right: 1px;
+    }
+    ._checkbox5{
+        padding-right: 145px;
+    }
+    .page5_ul{
+        margin-left: 15px;
+
+    }
+    .page5_list{
+        margin-left: 35px;
+    }
+    .page5_button{
+        margin-left: 47px;
+    }
+    .page5_form{
+        padding-right: 60px;
+        display: flex;
+        justify-content: right;
+    }
+    ._page5_input{
+        padding-right: 10px;
+    }
+    ._checkbox5{
+        padding-right: 10px;
+    }
+    .page5_title{
+        margin-top: 515px;
+    }
+    .page6_container{
+        margin-left: 90px;
+
+    }
+
+    .page6_img{
+        width: 280px;
+    }
+    .img_list_left:not(:last-child), .img_item_right:not(:last-child){
+        padding-bottom: 24px;
+    }
+    .page6_img_container{
+
+        display: flex;
+        justify-content: right;
+
+    }
+    .page6_img_left{
+        padding-right: 320px;
+        margin-left: 0;
+    }
+    .page6_img_right{
+        margin-left: -390px;
+    }
+
+    .page8_form{
+        margin-top: 98px;
+        margin-left: -20px;
+    }
+    .page8_container{
+        display: flex;
+        justify-content: center;
+    }
+    ._page8_input {
+        padding-right: 80px;
+    }
+    .page8_name {
+        margin-left: 81px;
+    }
+    .page8_phone{
+        margin-left: 382px;
+        padding-right: 80px;
+    }
+    .page8_question{
+        margin-top: 45px;
+        margin-left: 80px;
+        padding-bottom: 194px;
+
+    }
+    ._question{
+        padding-right: 355px;
+    }
+    ._checkbox8_text{
+        margin-left: 4px;
+    }
+    ._checkbox8{
+        margin-top: -155px;
+        margin-left: 230px;
+
+    }
+    .page8_button{
+    margin-left: 275px;
+    }
+    .h1_page9{
+        font-size: 18px;
+        margin-top: 280px;
+    }
+    .page9_logo{
+        margin-top: 360px;
+    }
+    .page9_img{
+        width: 850px;
+    }
+}
+
+
+@media (min-width: 0px) and (max-width: 768px) {
+    .menu, .menu_button {
+        display: none;
+    }
+
+    .header_container {
+        display: flex;
+        justify-content: space-between;
+    }
+    ._container{
+        padding: 0 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .main_container{
+        margin-left: -51px;
+        display: flex;
+        justify-content: center;
+    }
+    .number_link{
+        color: #FFFFFF;
+    }
+    .subtitle{
+        font-size: 14px;
+        line-height: 135.84%;
+        white-space: nowrap;
+    }
+    .title{
+        font-size: 23px;
+        line-height: 132.83%;
+        white-space: nowrap;
+    }
+    .main_submit_item, .main_button_item{
+        font-size: 15px;
+        padding: 19px 89px;
+        white-space: nowrap;
+    }
+    .main_submit_item{
+        padding: 19px 68px;
+    }
+    .main_button_container{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+    }
+    .main_button{
+        position: center;
+        margin: 0;
+    }
+    .main_submit{
+        margin-top: 84px;
+        position: center;
+        margin-left: -358px;
+    }
+    .page2_container{
+        margin-left: 18px;
+    }
+    .page2_title{
+        margin-left: 70px;
+        font-size: 22px;
+        line-height: 138.6%;
+        padding-bottom: 37px;
+    }
+    ._page2sub{
+        position: absolute;
+        line-height: 158.48%;
+        margin-left: 124px;
+    }
+    .page2_info{
+        margin-top: 41px;
+        margin-left: 22px;
+    }
+
+    .page2_subtitle{
+        margin: 0 auto;
+        font-size: 11px;
+    }
+    .page2_info{
+
+    }
+    ._brnomob{
+        display: unset;
+    }
+    ._nobrmob{
+        display: none;
+    }
+    .slider_info{
+        margin-top: 418px;
+        margin-left: -32px;
+    }
+    .page2_add_title{
+        font-size: 14px;
+        line-height: 138.6%;
+    }
+    .dots, .slider2_img, .slider_nav{
+        display: none;
+    }
+    .page2_img{
+        margin-top: 103px;
+        margin-left: -415px;
+        width: 340px;
+        padding-right: 5px;
+    }
+    .right_arrow{
+        background: url("/img/Vector.svg") no-repeat;
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        margin-left: -133px;
+        margin-top: -195px;
+        cursor: pointer;
+    }
+    .left_arrow{
+        background: url("/img/Vectorleft.svg") no-repeat;
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        margin-top: -196px;
+        margin-left: -397px;
+        cursor: pointer;
+    }
+    .video_img{
+        width: 340px;
+    }
+    .page3_container{
+        display: flex;
+        justify-content: center;
+    }
+    .page3_video{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin-top: 170px;
+        margin-left: 10px;
+        width: 340px;
+        height: 200px;
+
+    }
+    .page3_video_img{
+        width: 80px;
+    }
+    .page3_img{
+        width: 244px;
+    }
+    .page3_logo{
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+    .page3_video_start{
+        margin: 0;
+    }
+    .page4{
+        background: #181818;
+        height: 431px;
+    }
+    .page4_container{
+        display: flex;
+        justify-content: center;
+        align-items: start;
+    }
+    .page4_title{
+        margin-top: 51px;
+        margin-left: 0;
+        font-size: 11px;
+        line-height: 169.8%;
+        color: #FFFFFF;
+    }
+    .page4_line{
+        margin-top: 28px;
+        margin-left: 0;
+    }
+    .page4_form{
+        margin-top: 97px;
+        margin-left: -55px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    ._phone{
+        margin-left: -340px;
+        margin-top: 110px;
+    }
+    ._name{
+        margin-left: 1px;
+    }
+    ._input{
+        background: #181818;
+        padding-right: 168px;
+    }
+    .page4_form_button{
+        position: absolute;
+        padding: 20px 150px;
+        font-size: 13px;
+        line-height: 27px;
+        margin-top: 420px;
+        margin-left: 52px;
+    }
+    ._checkbox4{
+        margin-left: -337px;
+        margin-top: 225px;
+    }
+    ._input::placeholder{
+        font-size: 13px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+    ._fieldset{
+        font-size: 13px;
+        line-height: 21px;
+        color: #FFFFFF;
+
+    }
+    .legend_name, .legend_phone{
+        color: rgba(255, 255, 255, 0.5);
+        font-size: 13px;
+        line-height: 21px;
+    }
+    ._checkbox_text{
+        font-size: 14px;
+        line-height: 163.68%;
+        color: #FFFFFF;
+    }
+    .page4_logo{
+        margin-left: 0;
+        margin-top: 503px;
+    }
+    .choice_img{
+        width: 340px;
+    }
+    .choice_h1{
+        font-size: 15px;
+        line-height: 138.6%;
+    }
+    .choice_span{
+        margin-top: 0;
+        margin-left: 0;
+        font-size: 13px;
+        line-height: 169.8%;
+    }
+    .choice_item{
+        margin-top: 0;
+        margin-left: -1px;
+
+    }
+    .choice_background{
+        margin-left: 0;
+        padding: 10px 37px 16px 24px;
+    }
+    .page4_repair_choice_item{
+        display: list-item;
+    }
+    .page4_repair_choice_item:not(:last-child){
+        margin-right: 0;
+    }
+    .page4_repair_choice_item:not(:last-child){
+        margin-bottom: 207px;
+
+    }
+    .page4_repair_choice_list {
+        display: block;
+        margin-left: 0;
+    }
+    .choice_button{
+        font-size: 15px;
+        line-height: 138.6%;
+        padding: 11px 19px;
+        margin-left: -340px;
+        margin-top: 465px;
+    }
+    .page4_repair_choice{
+        margin-top: 590px;
+    }
+    .page5{
+        display: none;
+    }
+    .page6_ul{
+        display: none;
+    }
+    .page6{
+        margin-top: 2500px;
+        display: flex;
+        background: #181818;
+        align-items: center;
+        justify-content: center;
+    }
+    .page6_h1{
+        margin-left: 40px;
+        font-size: 22px;
+        line-height: 138.6%;
+        white-space: pre;
+        margin-top: -766px;
+    }
+    .page6_img_right{
+        display: none;
+    }
+    .page6_img_container {
+        margin: 0;
+    }
+    .page6_img_left{
+        display: none;
+    }
+    .page6_img_mobile{
+        margin-left: 45px;
+        margin-top: -540px;
+        display: flex;
+        justify-content: center;
+    }
+    .button_mobile{
+        margin-top: 95px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+    }
+    .button_right{
+        margin-left: 244px;
+        cursor: pointer;
+    }
+    .button_left{
+        cursor: pointer;
+    }
+    .page7{
+        display: none;
+    }
+
+    .page8_form_form{
+        margin-left: -165px;
+        margin-top: 0;
+
+
+    }
+    .page8_name{
+        margin-left: 0;
+        margin-top: -680px;
+    }
+    .page8_phone{
+        margin: 0;
+    }
+    .page8{
+        margin: 0;
+    }
+    .page8_question{
+        margin-left: 0;
+        margin-top: 11px;
+    }
+    ._checkbox8{
+        margin-top: -175px;
+        margin-left: 0;
+    }
+    .page8_form_h1{
+        position: absolute;
+        margin-left: 50px;
+        margin-top: -760px;
+    }
+    .page8_button{
+        font-size: 13px;
+        line-height: 27px;
+        margin-left: 5px;
+        padding: 12px 146px;
+        margin-top: -97px;
+    }
+    footer{
+        display: none;
+    }
+    .page9{
+        height: 640px;
+        margin-top: -530px;
+    }
+    .page9_img{
+        margin-left: 15px;
+        margin-top: -600px;
+        width: 340px;
+    }
+    .h1_page9{
+        margin-top: 455px;
+        font-size: 18px;
+        line-height: 138.6%;
+    }
+    .page9_logo1, .page9_logo2{
+        width: 39px;
+    }
+    .page9_logo{
+        margin-top: 545px;
+    }
+    ._fieldset_page8{
+        padding-right: 1px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .header_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .menu_link {
+        font-size: 65%;
+    }
+
+    .number_link {
+        margin-left: 304px;
+        font-size: 85%;
+    }
+
+    .menu_button_item {
+        display: none;
+    }
+
+    .menu_item{
+        display: none;
+    }
+
+    .menu {
+        margin-left: 55px;
+    }
+
+    .title {
+        font-size: 230%;
+    }
+
+    .subtitle {
+        font-size: 113%;
+    }
+
+    .main_button_item {
+        font-size: 65%;
+        padding: 18px 32px;
+    }
+    .main_submit_item{
+        font-size: 65%;
+        padding: 16px 18px;
+    }
+    .page2_title{
+        font-size: 155%;
+    }
+    .dots, .slider2_img, .slider_nav{
+        display: none;
+    }
+
+    .right_arrow{
+        background: url("/img/Vector.svg") no-repeat;
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        margin-left: 40px;
+        margin-top: 580px;
+        cursor: pointer;
+    }
+    .left_arrow{
+        background: url("/img/Vectorleft.svg") no-repeat;
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        margin-top: 580px;
+        margin-left: -570px;
+        cursor: pointer;
+    }
+    .page2_subtitle{
+        font-size: 85%;
+    }
+    .page2_add_title{
+        font-size: 105%;
+    }
+    .slider_link_link{
+        display: none;
+    }
+    .page2{
+        display: flex;
+        justify-content: center;
+        height: 1200px;
+    }
+    .page2_img{
+        margin-left: -581px;
+        margin-top: 370px;
+        position: absolute;
+        width: 670px;
+
+    }
+    .page3{
+        margin-top: 1680px;
+    }
+    .page3_img{
+        margin-left: -336px;
+        width: 186px;
+        height: 50px;
+    }
+    .video_img{
+        width: 670px;
+        height: 372px;
+        object-fit: cover;
+        object-position: bottom;
+    }
+    .page3_video{
+        margin-left: 10px;
+        margin-top: 150px;
+        width: 670px;
+        height: 372px;
+    }
+    .page3_video_img{
+        width: 95px;
+        height: 95px;
+    }
+    .page3_container{
+        justify-content: center;
+        display: flex;
+    }
+    .page4_title{
+        margin-left: -1px;
+        font-size: 18px;
+    }
+    .page4_form{
+        position: center;
+        margin-left: -5px;
+    }
+    ._input{
+        padding-right: 40px;
+    }
+    .page4_form_button{
+        margin-left: 480px;
+        padding: 16px 70px 3px 68px;
+    }
+    ._phone{
+        margin-left: 240px;
+    }
+    .choice_img{
+        margin: 15px auto;
+        padding: 0 5px;
+
+    }
+    .page4_container{
+        display: flex;
+        justify-content: center;
+        padding: 0 15px;
+    }
+    .choice_h1{
+        margin-left: 35px;
+    }
+    .choice_list{
+        margin-left: 35px;
+    }
+    .choice_background{
+        margin-left: 35px;
+        padding: 1.1%;
+    }
+    .page4_repair_choice{
+        display: flex;
+        justify-content: center;
+        margin-left: -200px;
+    }
+    .page4_repair_choice_item{
+        margin-left: -4px;
+    }
+    .page4_repair_choice_item:last-child{
+        margin-left: -610px;
+        margin-top: 560px;
+    }
+    .page4_repair_choice_item:not(:last-child){
+        margin-right: 100px;
+    }
+    .page4_repair_choice_list{
+        margin-left: 15px;
+    }
+    .page4_logo{
+        margin-left: -20px;
+    }
+    .choice_span{
+        white-space: nowrap;
+    }
+    .choice_button{
+        margin-left: -285px;
+        margin-top: 476px;
+        font-size: 16px;
+        padding: 14px 19px;
+    }
+    .page4_line{
+        position: center;
+        margin-left: -1px;
+    }
+    .page4_title{
+        font-size: 16px;
+    }
+    .page5{
+        margin-top: 2280px;
+    }
+    .page5_container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .page5_form_h1{
+        padding-right: 1px;
+    }
+    ._checkbox5{
+        padding-right: 145px;
+    }
+    .page5_ul{
+        margin-left: 1px;
+
+    }
+    .page5_list{
+        margin-left: 3px;
+    }
+    .page5_button{
+        margin-left: 47px;
+    }
+    .page5_form{
+        margin-top: 1060px;
+        margin-left: 1px;
+        padding-right: 60px;
+        display: flex;
+        justify-content: right;
+    }
+    ._page5_input{
+        padding-right: 10px;
+    }
+    ._checkbox5{
+        padding-right: 10px;
+    }
+    .page5_title {
+        margin-left: 1px;
+        margin-top: 1720px;
+    }
+
+    .page6{
+        margin-top: 3200px;
+    }
+    .page6_container {
+        margin-left: 50px;
+
+    }
+
+    .page6_img{
+        width: 240px;
+    }
+    .img_list_left:not(:last-child), .img_item_right:not(:last-child){
+        padding-bottom: 24px;
+    }
+    .page6_img_container{
+        margin-top: 240px;
+        display: flex;
+        justify-content: right;
+
+    }
+    .page6_h1{
+        margin-top: -110px;
+        margin-left: 210px;
+    }
+    .page6_img_left{
+        padding-right: 260px;
+        margin-left: 0;
+    }
+    .page6_img_right{
+        margin-left: -390px;
+    }
+    .page7{
+        display: none;
+    }
+    .page8{
+        background: #181818;
+        width: 100vw;
+        height: 500px;
+    }
+    .page8_form{
+        margin-top: 550px;
+        margin-left: 0;
+    }
+    .page8_container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    ._page8_input {
+        padding-right: 80px;
+    }
+    .page8_name {
+        margin-left: 81px;
+    }
+    .page8_phone{
+        margin-left: 382px;
+        padding-right: 80px;
+    }
+    .page8_question{
+        margin-top: 45px;
+        margin-left: 80px;
+        padding-bottom: 194px;
+
+    }
+    ._question{
+        padding-right: 355px;
+    }
+    ._checkbox8_text{
+        margin-left: 4px;
+    }
+    ._checkbox8{
+        margin-top: -155px;
+        margin-left: 230px;
+
+    }
+    .page8_button{
+        margin-left: 275px;
+    }
+    .page9{
+        margin-top: 0;
+        height: 500px;
+    }
+    .page9_container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .h1_page9{
+        font-size: 18px;
+        margin-top: 80px;
+    }
+    .page9_logo{
+        margin-top: 190px;
+    }
+    .page9_img{
+        width: 670px;
+        margin-top: 190px;
+    }
+
+}
+
+
+
+
+@media (max-width: 1150px) and (min-width: 1024px){
+    .slider-bar{
+        margin-top: 75px;
+    }
+}
