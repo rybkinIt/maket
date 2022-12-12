@@ -4,15 +4,15 @@
 @font-face {
     font-family: 'Nunito Sans';
     src: local("NunitoSans-Regular"),
-url(/fonts/NunitoSans-Regular.ttf);
+url(../fonts/NunitoSans-Regular.ttf);
 }
 @font-face {
     font-family: 'Nunito Sans italic';
-    src: url(/fonts/NunitoSans-italic.ttf);
+    src: url(../fonts/NunitoSans-italic.ttf);
 }
 @font-face {
     font-family: 'Yeseva One';
-    src: url(/fonts/YesevaOne-Regular.ttf);
+    src: url(../fonts/YesevaOne-Regular.ttf);
 }
 .wrapper {
     min-height: 100%;
@@ -98,7 +98,7 @@ url(/fonts/NunitoSans-Regular.ttf);
     cursor: pointer;
 }
 .main {
-    background-image: url("/img/image 4.3.png");
+    background-image: url("../img/image 4.3.png");
     margin-top: 83px;
     width: 100vw;
     height: 707px;
@@ -624,7 +624,7 @@ url(/fonts/NunitoSans-Regular.ttf);
     position: absolute;
     margin-left: -117px;
     margin-top: -108px;
-    background: url("/img/image 6.1.png") no-repeat;
+    background: url("../img/image 6.1.png") no-repeat;
 }
 .page5_list{
     margin-top: 60px;
@@ -698,7 +698,7 @@ url(/fonts/NunitoSans-Regular.ttf);
 .page6{
     margin-left: -49px;
     margin-top: 2527px;
-    background:url('/img/Group 22.png') no-repeat center center;
+    background:url('../img/Group 22.png') no-repeat center center;
     height: 864px;
     background-size:cover;
 }
@@ -1015,7 +1015,7 @@ url(/fonts/NunitoSans-Regular.ttf);
     margin-top: 391px;
     min-width: 100%;
     min-height: 100%;
-    background: url("/img/Group 66.png") no-repeat;
+    background: url("../img/Group 66.png") no-repeat;
     background-size: 100% 100%;
 }
 .page9{
@@ -1028,7 +1028,7 @@ url(/fonts/NunitoSans-Regular.ttf);
     position: absolute;
     min-width: 100%;
     min-height: 100%;
-    background: url("/img/Group 67.png") no-repeat;
+    background: url("../img/Group 67.png") no-repeat;
     background-size: 100% 100%;
     margin-top: 1098px;
     height: 953px;
